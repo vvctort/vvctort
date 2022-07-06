@@ -5,7 +5,7 @@
 
 
 - 🌱 Estudante de Flutter
-- 📫 Entre em contato no email: victor123toma@gmail.com
+
 
 ##
 
