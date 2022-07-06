@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
- 🌱 Estudante de Flutter
+ 🌱 sou estudante de Flutter
 
 </div>
 
