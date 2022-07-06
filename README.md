@@ -1,10 +1,15 @@
+<div align="center">
+
 ### Olá!👋
 ### Seja bem vindo(a) ao meu perfil
+##
 
+</div>
 
+<div align="center">
+ 🌱 Estudante de Flutter
 
-
-- 🌱 Estudante de Flutter
+</div>
 
 
 ##
