@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
- 🌱 I'm a Flutter student
+ 🌱  Always learning
 
 </div>
 
